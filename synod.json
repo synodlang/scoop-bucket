@@ -1,16 +1,16 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Compiler for the Synod language",
   "homepage": "https://github.com/synodlang/compiler",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/synodlang/compiler/releases/download/v0.2.0/synod-v0.2.0-windows-amd64.zip",
-      "hash": "bdd6b4d93220b29ccfdcc85545e086a314a42fe33a76e429decaf874d67df361"
+      "url": "https://github.com/synodlang/compiler/releases/download/v0.2.1/synod-v0.2.1-windows-amd64.zip",
+      "hash": "18c9d598bd66381cfa773ac006e219e9d9b91fa55bbb48934747465db4ab93b6"
     },
     "arm64": {
-      "url": "https://github.com/synodlang/compiler/releases/download/v0.2.0/synod-v0.2.0-windows-arm64.zip",
-      "hash": "0a0a3d27626fd757225d0e996f9c58130bc045886deea486639169a1976f3d08"
+      "url": "https://github.com/synodlang/compiler/releases/download/v0.2.1/synod-v0.2.1-windows-arm64.zip",
+      "hash": "d5e11f1838ba6dd8c5962af7d09966e93ac430e95ae2fcefd9e9bfc364949bdd"
     }
   },
   "bin": "synod.exe",
